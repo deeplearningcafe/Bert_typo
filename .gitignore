@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+Bert校正.ipynb
+data/
+Bert_masked.ipynb
+token_class_weighted.pth
